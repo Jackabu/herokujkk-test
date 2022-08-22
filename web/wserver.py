@@ -24,7 +24,7 @@ page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent File Selector</title>
-    <link rel="icon" href="https://telegra.ph/file/cc06d0c613491080cc174.png" type="image/jpg">
+    <link rel="icon" href="https://telegra.ph/file/4376db89d8b271d4f0e50.jpg" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -56,7 +56,7 @@ page = """
 }
 
 body{
-    background-color: #0D1117;
+    background-color: #010202;
 }
 
 header{
@@ -217,21 +217,21 @@ input[type="submit"]:hover, input[type="submit"]:focus{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/cc06d0c613491080cc174.png"
+          src="https://telegra.ph/file/4376db89d8b271d4f0e50.jpg"
           alt="logo"
         />
-        <a href="https://t.me/anas_tayyar">
+        <a href="https://t.me/jackssmit">
           <h2 class="name">Qbittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/anasty17/mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/anas_tayyar"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/jackssmit"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/jackssmit"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
-        <h4>Selected files: <b id="checked_files">0</b> of <b id="total_files">0</b></h4>
-        <h4>Selected files size: <b id="checked_size">0</b> of <b id="total_size">0</b></h4>
+        <h4>Bro Selected files: <b id="checked_files">0</b> of <b id="total_files">0</b></h4>
+        <h4>Bro Selected files size: <b id="checked_size">0</b> of <b id="total_size">0</b></h4>
     </div>
       <section>
       <form action="{form_url}" method="POST">
@@ -438,7 +438,7 @@ code_page = """
 }
 
 body{
-    background-color: #0D1117;
+    background-color: #010202;
 }
 
 header{
@@ -609,16 +609,16 @@ section span{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/cc06d0c613491080cc174.png"
+          src="https://telegra.ph/file/4376db89d8b271d4f0e50.jpg"
           alt="logo"
         />
-        <a href="https://t.me/anas_tayyar">
+        <a href="https://t.me/Jackssmit">
           <h2 class="name">Qbittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/anasty17/mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/anas_tayyar"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/Jackssmit"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/Jackssmit"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
